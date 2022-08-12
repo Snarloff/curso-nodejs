@@ -1,0 +1,22 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snarloff/curso-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Snarloff/curso-nodejs/issues"
+  },
+  "homepage": "https://github.com/Snarloff/curso-nodejs#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
